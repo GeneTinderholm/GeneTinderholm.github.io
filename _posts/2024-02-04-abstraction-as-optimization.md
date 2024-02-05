@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: post
 title:  "Abstraction as Optimization for Change"
 date:   2024-02-04 12:00:00 -0600
 categories: development
@@ -36,7 +36,3 @@ So, abstractions end up with our code being hard to change, and the people who i
 > premature optimization is the root of all evil
 
 If the title didn't give it away. I think this is, fundamentally, an optimization problem. We've optimized our code to be able to change it all at once, neglecting that that's not always the area of concern when changing code. Sometimes we want to change a percentage of it. Part of it is experience, but knowing when pieces of code will change together and which ones are just accidentally the same *right now* is an important skill to develop. But even with that, there are times when the business throws a curve-ball at you, and you have to pull apart two things that were linked before. I don't have the perfect answer for this, I don't know your code base, maybe two things really will be linked forever. But if you're writing a greenfield app, maybe let things just be gronky code for a bit until the underlying concepts firm up is a good idea. Opt for module level abstractions instead of global ones if you can for a while until you're really sure that this abstraction is a good idea, things in the same module are much more likely to change together than things in completely separate parts of the project. And most of all, err on the side of getting rid of an abstraction that's not working or creating a new one rather than hacking in a boolean flag into the old one. Some of the worst abstractions I've seen have really needed to be 3 or 4 abstractions.
-
-Until next time.
-
-\- Gene
