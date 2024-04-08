@@ -1,6 +1,8 @@
 ---
 layout: custom
 links:
+    - link: https://grugbrain.dev/
+      title: The Grug Brained Developer
     - link: https://www.stilldrinking.org/programming-sucks
       title: Programming Sucks
     - link: https://users.cs.utah.edu/~elb/folklore/mel.html
@@ -11,6 +13,8 @@ links:
       title: Coding Machines
     - link: https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
       title: The Kingdom of Nouns
+    - link: https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html
+      title: A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux 
 ---
 Random things I've enjoyed reading
 <ul>
