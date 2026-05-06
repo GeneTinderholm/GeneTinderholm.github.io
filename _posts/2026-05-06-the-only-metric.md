@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "The Only Metric That Matters"
-date:   2026-05-06 08:00:00 -0600
+date:   2026-05-06 08:00:00 -0500
 categories: development
+unlisted: true
 ---
 
 It's been over two years since my last post. Part of this is that my dad died pretty soon after my last post, and I haven't had anything to say that I wanted sent out to the public. The other part is that tech has been changing the past few years, and I didn't feel like I had anything solid to point to. That seems to be over, and I'm going to summarize my thoughts here.
