@@ -15,6 +15,10 @@ links:
       title: The Kingdom of Nouns
     - link: https://www.muppetlabs.com/%7Ebreadbox/software/tiny/teensy.html
       title: A Whirlwind Tutorial on Creating Really Teensy ELF Executables for Linux 
+    - link: https://ribbonfarm.com/series/the-gervais-principle/
+      title: The Gervais Principle
+    - link: https://thezvi.substack.com/p/mazes-sequence-summary
+      title: Moral Mazes Summary (thezvi)
 ---
 Random things I've enjoyed reading
 <ul>
