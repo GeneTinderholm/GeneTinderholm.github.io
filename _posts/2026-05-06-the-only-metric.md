@@ -27,4 +27,4 @@ How exactly did we forgot that two motivated devs could scoop the big boys? How 
 
 People sold us process. We were sold Jira, agile, XP, TDD, and pairing. Those things are all fine, to some extent, testing is actually great, although I don't have a strong opinion on if it happens before or after. None of these things, however, actually move the needle. All of those things were pioneered by a group of engineers who cared. That's the thing that mattered. Groups of engineers who cared built operating systems way more complex than any web app before any of these things showed up.
 
-The tide is going out. The kind of dev who always does exactly what the ticket says is useless now, but they always were in the long-term. Next time you pick up a ticket, ask yourself, am I doing what the ticket says, or what the stakeholder needs?
+The tide is going out. The kind of dev who always does exactly what the ticket says is useless now, but they always were in the long-term. Everything is different, but nothing has changed. Next time you pick up a ticket, ask yourself, am I doing what the ticket says, or what the stakeholder needs?
